@@ -1,0 +1,41 @@
+ .unstackable  {
+border: 1px solid grey;
+margin: 12px;
+border-radius: 20px;
+padding: 12px;
+}
+.ui {
+    margin: 12px;
+}
+ .unstackable .item .image > .my-img {
+    border-radius: 12px;
+    border: 1px solid black;
+}
+body{
+    background-color: rgb(17, 18, 35);
+}
+.ui {
+    background-image: linear-gradient(to right, rgb(34, 4, 73),rgb(72, 2, 88));
+}
+
+p, h1{
+    color: white;
+}
+p#header{
+    color: white
+}
+p#header:hover{
+    cursor: pointer;
+}
+span {
+    color: white;
+}
+.div {
+    color: white;
+}
+.extra {
+    color: white;
+}
+div.item {
+    border: none;
+}
